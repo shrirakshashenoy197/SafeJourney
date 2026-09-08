@@ -54,7 +54,7 @@ SafeJourney is a web-based travel safety platform designed to help users make sa
 - Recommendation Logic
 
 # Project Structure
-
+```text
 SafeJourney/
 │
 ├── frontend/
@@ -71,6 +71,7 @@ SafeJourney/
 │   └── ...
 │
 └── README.md
+```
 
 # Key Concepts Demonstrated
 
