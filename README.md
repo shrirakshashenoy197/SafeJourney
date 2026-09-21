@@ -126,6 +126,9 @@ The goal of SafeJourney is to combine travel planning with safety-focused decisi
 
 SafeJourney can be extended into a comprehensive intelligent travel assistant by integrating real-time APIs, geolocation services, machine learning-based recommendations, and emergency assistance features.
 
+# live demo
+https://safejourney-one.vercel.app
+
 # Author
 
 ## Shriraksha Shenoy
